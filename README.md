@@ -1,2 +1,4 @@
-# auto-healing-smart-xpath
-Auto-healing Smart XPath plugin for Katalon Studio
+# Auto-Healing Smart XPath
+This repository is for logging issues related to the Auto-healing Smart XPath of Katalon Studio https://store.katalon.com/product/5
+
+This plugin will be open-source soon.
